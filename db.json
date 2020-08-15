@@ -1,0 +1,23 @@
+{
+  "products": [],
+  "categories": [
+    {
+      "id": "27",
+      "name": "Handcrafted Concrete Hat",
+      "image": "http://lorempixel.com/640/480/fashion",
+      "desc": "580.00"
+    },
+    {
+      "id": "r8j4jmzy0",
+      "name": "le trung dung",
+      "desc": "123123312",
+      "image": "https://firebasestorage.googleapis.com/v0/b/my-app-69809.appspot.com/o/images%2Ft%E1%BA%A3i%20xu%E1%BB%91ng%20(1).jpg?alt=media&token=e6262bf0-fbab-477c-a934-323852af7623"
+    },
+    {
+      "id": "p1u9ps915",
+      "name": "trung dung le ",
+      "desc": "12222",
+      "image": "https://firebasestorage.googleapis.com/v0/b/my-app-69809.appspot.com/o/images%2Fhinh-anh-doremon-tha-bong-bay.jpg?alt=media&token=b30ac264-f082-443d-bf84-576964f7ea73"
+    }
+  ]
+}
